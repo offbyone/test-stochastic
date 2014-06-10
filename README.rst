@@ -2,6 +2,10 @@
  Test Stochastic
 =================
 
+.. image:: https://travis-ci.org/offbyone/test-stochastic.svg?branch=mainline
+        :alt: Build Status
+        :target: https://travis-ci.org/offbyone/test-stochastic
+
 Why?
 ====
 
