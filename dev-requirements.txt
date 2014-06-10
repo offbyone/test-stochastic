@@ -1,3 +1,5 @@
+# pytest
+pytest
 # docs
 -e .
 releases>=0.6

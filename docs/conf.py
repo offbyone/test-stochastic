@@ -5,7 +5,7 @@ import sys
 import sphinx_rtd_theme
 
 
-extensions = []
+extensions = ['sphinx.ext.autodoc', 'releases']
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
@@ -23,6 +23,5 @@ exclude_patterns = ['_build']
 html_theme = "sphinx_rtd_theme"
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-# Dogfood
-extensions.append('releases')
+# Changelog
 releases_github_path = 'offbyone/test-stochastic'

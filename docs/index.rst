@@ -15,10 +15,8 @@ Contents:
 Usage
 =====
 
-Pytest
-------
-
-To use with py.test, simply install as a test dependency, and then add random_order = true to your pytest config file.
+.. automodule:: test_stochastic.pytest
+   :members:
 
 Nose
 ----
