@@ -1,7 +1,3 @@
-=================
- Test Stochastic
-=================
-
 .. include:: ../README.rst
 
 Contents:
