@@ -5,7 +5,7 @@ import sys
 import sphinx_rtd_theme
 
 
-extensions = ['sphinx.ext.autodoc', 'releases']
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.intersphinx', 'releases']
 templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'

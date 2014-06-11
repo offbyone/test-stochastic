@@ -5,9 +5,6 @@
 .. image:: https://travis-ci.org/offbyone/test-stochastic.svg?branch=mainline
         :alt: Build Status
         :target: https://travis-ci.org/offbyone/test-stochastic
-.. image:: https://coveralls.io/repos/hamcrest/test-stochastic/badge.png?branch=mainline
-        :alt: Coverage
-        :target: https://coveralls.io/r/hamcrest/test-stochastic?branch=mainline
 
 Why?
 ====
